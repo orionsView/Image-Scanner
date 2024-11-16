@@ -7,4 +7,4 @@ Image Processing Java Program:
 3)Used JAVA GUI to display results based on which option is chosen by user.
 
 Screenshot shows example of ISO being displayed. Number of photos taken at each ISO level is displayed as well as mean, mode and standard deviation. Number labels for each line can be toggled on and off.
-!(https://drive.google.com/file/d/14P4OjBlNkGupoK8Zq7E9rufIoqgMkV5I/view?usp=sharing)
+!(https://github.com/orionsView/Image-Scanner/blob/main/project%20screen%20shot.PNG)
